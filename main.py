@@ -8,7 +8,7 @@ print()
 while True:
     if input() == 'stop':
         break
-    counter += 2
+    counter += 1
     print(counter)
 
 print('Thank you for Using Our Counter Application')
